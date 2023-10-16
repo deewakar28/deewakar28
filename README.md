@@ -1,7 +1,7 @@
 Hi 👋 My name is B. Deewakar Rao
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-I am Front End Developer.
+I am Web Developer.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 🌍 I’m based in Chhattisgarh, India
-- 🧠 Currently learning React.js
+- 🧠 Currently learning Backend Development
 - 🤝 I'm open to collaborating on interesting projects.
